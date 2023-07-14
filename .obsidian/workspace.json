@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f4f5c9d4c498bc6",
+        "id": "a5f2a8c45dd7d5c9",
         "type": "tabs",
         "children": [
           {
-            "id": "73e9bec02d81480b",
+            "id": "94da25c06124f0d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "電子物理学/第1回/電気物理学と電子物理学.md",
+                "file": "電子物理学/電子物理学 - Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "電子物理学/第1回/電気物理学と電子物理学.md",
+                "file": "電子物理学/電子物理学 - Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "電子物理学/第1回/電気物理学と電子物理学.md",
+                "file": "電子物理学/電子物理学 - Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "電子物理学/第1回/電気物理学と電子物理学.md"
+                "file": "電子物理学/電子物理学 - Overview.md"
               }
             }
           }
@@ -146,15 +146,21 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "73e9bec02d81480b",
+  "active": "94da25c06124f0d2",
   "lastOpenFiles": [
+    "電子物理学/第1回 電気物理学と電子物理学/1.1 電気物理学（1EE）.md",
+    "電子物理学/第1回 電気物理学と電子物理学/1.2 電子物理学（2EE）.md",
     "電子物理学/電子物理学 - Overview.md",
-    "電子物理学/第1回/電気物理学と電子物理学.md",
-    "第1回 電気物理学と電子物理学.md",
+    "1.1 電気物理学.md",
+    "電子物理学/第1回 電気物理学と電子物理学/1.1 電気物理学.md",
+    "電子物理学/第1回 電気物理学と電子物理学/1.2 電子物理学.md",
     "キャリア.md",
-    "電子物理学/第1回 電気物理学と電子物理学.md",
-    "電子物理学/第1回",
+    "無題のファイル.md",
+    "電子物理学/第1回 電気物理学と電子物理学/1.1 電気物理学 copy.md",
     "電子物理学.md",
+    "第1回 電気物理学と電子物理学.md",
+    "電子物理学/第1回 電気物理学と電子物理学.md",
+    "電子物理学/第1回 電気物理学と電子物理学",
     "電子物理学",
     "2023-07-15.md"
   ]

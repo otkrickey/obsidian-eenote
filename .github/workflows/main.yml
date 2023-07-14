@@ -23,8 +23,5 @@ jobs:
           pip install mkdocs-material
 
       - name: Build and Deploy
-        uses: mikeal/publish-to-github-action@master
-        with:
-          directory: site
-          branch: gh-pages  # GitHub Pagesで公開するブランチ名を指定します。
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: mkdocs gh-deploy --force
+

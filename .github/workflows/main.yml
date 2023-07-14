@@ -1,27 +1,24 @@
 name: Deploy MkDocs to GitHub Pages
-
 on:
   push:
     branches:
-      - master  # デフォルトブランチ名を指定します。必要に応じて変更してください。
-
+      - master
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install mkdocs-material
-
-      - name: Build and Deploy
-        run: mkdocs gh-deploy --force
-
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install --upgrade pip
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-roamlinks-plugin
+      # - run: pip install mkdocs-mermaid2-plugin
+      - run: mkdocs gh-deploy --force

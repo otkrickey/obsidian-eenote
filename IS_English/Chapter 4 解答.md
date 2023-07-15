@@ -97,3 +97,8 @@ a.Multiple choice questions
 > 3. 
 
 b.Short answer questions
+
+> [!success]- Answers
+> 1. To drink water
+> 2. Build the new house
+> 3. The small can beat the powerful

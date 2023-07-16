@@ -12,7 +12,7 @@
 - beaver
     ビーバー
 - muskrat
-    ビーバーネズミ
+    ジャコウネズミ
 - starve
     餓死する
 - dried up

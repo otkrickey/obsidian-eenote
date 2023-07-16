@@ -36,7 +36,7 @@
     2. The ------ is a very good swimmer.
     3. The ------ is an extremely powerful animal.
     4. The soldier showed great ------ during the battle.
-    5. The ------ uses it large teeth to cut wood. 
+    5. The ------ uses it large teeth to cut wood.
 > [!success]- Answers
 > 1. reputation
 > 2. muskrat

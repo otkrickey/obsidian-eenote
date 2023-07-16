@@ -77,7 +77,7 @@
 a.Multiple choice questions
 1. How was the most able to learn about the river according to the story?
     a) because it was the only river nearby
-    b) because of its poputation
+    b) because of its reputation
     c) because he was thirsty at the time
     d) because he was lucky and found it by chance
 2. Which of the following animals would have been most affected by The Disappearance of the water?
@@ -91,8 +91,8 @@ a.Multiple choice questions
     c) by making him run around in circles
     d) by biting him repeatedly
 > [!success]- Answers
-> 1. c
-> 2. b
+> 1. b
+> 2. c
 > 3. d
 
 b.Short answer questions

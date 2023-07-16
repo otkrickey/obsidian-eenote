@@ -9,7 +9,7 @@
     債務者監獄
 - sibilings
     兄弟姉妹
--relocated
+- relocated
     移住した
 - an agent for the court
     裁判所の代理人

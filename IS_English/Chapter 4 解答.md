@@ -92,8 +92,13 @@ a.Multiple choice questions
     c) by making him run around in circles
     d) by biting him repeatedly
 > [!success]- Answers
-> 1. 
-> 2. 
-> 3. 
+> 1. c
+> 2. b
+> 3. d
 
 b.Short answer questions
+
+> [!success]- Answers
+> 1. To drink water
+> 2. Build the new house
+> 3. The small can beat the powerful

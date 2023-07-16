@@ -112,7 +112,7 @@ a.Multiple choice questions
 > [!success]- Answer
 > 1. d
 > 2. a
-> 3. c
+> 3. b
 
 b.Short answer questions
 1. In which state was Harriet Tubman born?

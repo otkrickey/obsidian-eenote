@@ -74,3 +74,36 @@
 > 9. shells
 > 10. coastal waters
 > 11. disputes
+
+3.Allowed words: <span style="color: #87CEEB;"> 'expectations', 'stability', 'diameter', 'altitude', 'allied troops' </span>
+    12. Its narrow ------ made cleaning the inside of the vase extremely difficult.
+    13. His first place finish in the competition exceeded the ------ of his coach.
+    14. My grandfather was one of the ------ who served in Europe.
+    15. The carpenter did not trust the ------ of the ladder.
+    16. The mountain climber had never reached such a high ------ before.
+> [!success]- Answers
+> 12. diameter
+> 13. expectations
+> 14. allied troops
+> 15. stability
+> 16. altitude
+
+4.Allowed words: <span style="color: #87CEEB;"> 'sophisticated', 'aerodynamic', 'in the field', 'impressive', 'compressed', 'circular' </span>
+    17. The earth is actually slightly egg-shaped rather than ------.
+    18. Once electronic files are ------, they can be transmitted much more quickly.
+    19. Computers are remarkably ------ devices.
+    20. The Grand Canyon is an incredibly ------ sight.
+    21. On paper, the design seemed excellent, but ------ it was a complete failure.
+    22. Thanks to its ------ shape, the jet was capable of flying at a very high speed.
+> [!success]- Answers
+> 17. circular
+> 18. compressed
+> 19. sophisticated
+> 20. impressive
+> 21. in the field
+> 22. aerodynamic
+
+### Listening to the Lecture
+[Unique Selections 英語なるほどリスニング講義](https://shohakusha.com/streaming#anchorlink-list-menu)
+- 原文
+    

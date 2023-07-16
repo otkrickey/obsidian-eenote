@@ -126,21 +126,30 @@
 ### Comprehension Questions
 a.Multiple choice questions
 1. What was the Navgarod designed for?
-    a) These records had been destroyed.
+    a) to frighten enemies with its large size
+    b) to fight ocean battles around the world
+    c) to promote a nre ship design
+    d) to protect the Russian coast
 2. Which of the following was not one of the Navgarod's weaknesses?
+    a) It was slow.
+    b) Its guns were too large.
+    c) It was not actually very stable.
+    d) It world spin when its guns were fired.
 3. What eventually happened to the Navgarod?
+    a) It was broken down and its materials were possibly sold or recycled.
+    b) It sank during battle.
+    c) It was discovered by allied troops.
+    d) It is still in service.
 > [!success]- Answer
-> 1. 
-> 2. 
-> 3. 
+> 1. d
+> 2. b
+> 3. a
 
-b.Short answer questions
+b.True-false questions
 1. The wind cannon was unusual mainly because of its size.
 2. The length of the wind cannon was 1 meter.
 3. During testing, the wind cannon was a success.
 > [!success]- Answer
-> 1. 
-> 2. 
-> 3. 
-
-
+> 1. False. The wind cannon was unusual mainly because it fired compressed air instead of shells.
+> 2. False. The length of the wind cannon was 11 meters, not 1 meter.
+> 3. True. During testing, the wind cannon was shown to be capable of penetrating a 25 millimeter thick board of wood located over 200 meters away. However, it was a failure in actual combat situations.

@@ -91,8 +91,8 @@ a.Multiple choice questions
     c) by making him run around in circles
     d) by biting him repeatedly
 > [!success]- Answers
-> 1. c
-> 2. b
+> 1. b
+> 2. c
 > 3. d
 
 b.Short answer questions

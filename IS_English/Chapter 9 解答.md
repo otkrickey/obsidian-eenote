@@ -142,7 +142,7 @@ a.Multiple choice questions
     d) It is still in service.
 > [!success]- Answer
 > 1. d
-> 2. b
+> 2. d
 > 3. a
 
 b.True-false questions

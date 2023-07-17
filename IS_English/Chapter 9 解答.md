@@ -153,3 +153,5 @@ b.True-false questions
 > 1. False. The wind cannon was unusual mainly because it fired compressed air instead of shells.
 > 2. False. The length of the wind cannon was 11 meters, not 1 meter.
 > 3. True. During testing, the wind cannon was shown to be capable of penetrating a 25 millimeter thick board of wood located over 200 meters away. However, it was a failure in actual combat situations.
+
+#IS_English 

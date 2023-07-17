@@ -24,7 +24,7 @@
 - crusader
     改革運動家
 
-    ### Vocabulary Practice
+### Vocabulary Practice
 1.Allowed words: <span style="color: #87CEEB;"> 'alcoholism', 'surgeon', 'practice', 'ophthalmologist',advocate' </span>
     1. A ------ is often very good with his or her hands.
     2. oNCE HE BECAME A lawyer, he set up his own ------ in his hometown.

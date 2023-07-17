@@ -54,7 +54,7 @@
     4. The son hoped he would be able ------ the expectations of his father.
     5. He continued onward because he felt that the benefits were able ------ the risks.
     6. The young baseball player wanted ------ the ball ------ the park.
-    7. The old airplane was scrapped and its parts were sold to an overseas company.
+    7. The old airplane was ------ and its parts were sold to an overseas company.
 > [!success]- Answers
 > 1. ignition of
 > 2. to spin like a top

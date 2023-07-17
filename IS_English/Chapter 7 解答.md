@@ -38,7 +38,7 @@
 > 4. alcoholism
 > 5. ophthalmologist
 
-2.Allowed words: <span style="color: #87CEEB;"> 'crusader', 'reunited', bowed to the pressure', 'wrongly', 'accused of x', 'convicted of x' </span>
+2.Allowed words: <span style="color: #87CEEB;"> 'crusader', 'reunited', 'bowed to the pressure', 'wrongly', 'accused of x', 'convicted of x' </span>
     6. The brother and sister were ------ after several years apart.
     7. He was ------ armed robbery and sent to prison for 20 years.
     8. Everyone ------ assumed that he was good at basketball because he was tall.

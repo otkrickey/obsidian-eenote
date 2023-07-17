@@ -19,6 +19,8 @@
     靴磨き
 - exhausting
     疲れ果てさせる
+- bleak
+	暗い
 - passed away
     亡くなった
 - inheritance
